@@ -28,3 +28,6 @@ Le projet se concentre sur la visualisation des données et la narration analyti
 ## Visuels du projet
 ![P2S01](P2S01.png)
 ![P02S02](P02S02.png)
+![P2S03](P2S03.png)
+![P2S04](P2S04.png)
+![P2S05](P2S05.png)
