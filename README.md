@@ -26,4 +26,4 @@ Le projet se concentre sur la visualisation des données et la narration analyti
 > Attention ! Ce projet a été réalisé dans le cadre de la formation "Data Analyst" avec l’organisme OpenClassrooms.
 
 ## Visuels du projet
-![P2_S01]
+![P2S01]
